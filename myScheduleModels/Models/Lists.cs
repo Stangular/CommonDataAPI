@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace myScheduleModels.Models
 {
+
     public partial class Lists
     {
         [Key]
