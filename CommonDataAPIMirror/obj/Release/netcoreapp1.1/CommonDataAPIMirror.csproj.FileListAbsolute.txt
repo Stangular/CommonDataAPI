@@ -1,0 +1,9 @@
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\bin\Release\netcoreapp1.1\CommonDataAPIMirror.deps.json
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\bin\Release\netcoreapp1.1\CommonDataAPIMirror.runtimeconfig.json
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\bin\Release\netcoreapp1.1\CommonDataAPIMirror.runtimeconfig.dev.json
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\bin\Release\netcoreapp1.1\CommonDataAPIMirror.dll
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\bin\Release\netcoreapp1.1\CommonDataAPIMirror.pdb
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\obj\Release\netcoreapp1.1\CommonDataAPIMirror.AssemblyInfo.cs
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\obj\Release\netcoreapp1.1\CommonDataAPIMirror.dll
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\obj\Release\netcoreapp1.1\CommonDataAPIMirror.pdb
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\CommonDataAPIMirror\obj\Release\netcoreapp1.1\CommonDataAPIMirror.csprojResolveAssemblyReference.cache

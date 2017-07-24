@@ -1,0 +1,6 @@
+C:\Projects\Sandbox\mySchedule\bin\Debug\netcoreapp1.1\mySchedule.deps.json
+C:\Projects\Sandbox\mySchedule\bin\Debug\netcoreapp1.1\mySchedule.dll
+C:\Projects\Sandbox\mySchedule\bin\Debug\netcoreapp1.1\mySchedule.pdb
+C:\Projects\Sandbox\mySchedule\obj\Debug\netcoreapp1.1\mySchedule.AssemblyInfo.cs
+C:\Projects\Sandbox\mySchedule\obj\Debug\netcoreapp1.1\mySchedule.dll
+C:\Projects\Sandbox\mySchedule\obj\Debug\netcoreapp1.1\mySchedule.pdb

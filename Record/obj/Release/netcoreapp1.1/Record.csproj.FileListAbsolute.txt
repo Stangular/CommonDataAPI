@@ -1,0 +1,14 @@
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\Record\bin\Release\netcoreapp1.1\Record.deps.json
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\Record\bin\Release\netcoreapp1.1\Record.dll
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\Record\bin\Release\netcoreapp1.1\Record.pdb
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\Record\obj\Release\netcoreapp1.1\Record.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\Record\obj\Release\netcoreapp1.1\Record.AssemblyInfo.cs
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\Record\obj\Release\netcoreapp1.1\Record.dll
+C:\Projects\Sandbox\SSS_AspNetCoreSandbox\Record\obj\Release\netcoreapp1.1\Record.pdb
+C:\Projects\Sandbox\Record\bin\Release\netcoreapp1.1\Record.deps.json
+C:\Projects\Sandbox\Record\bin\Release\netcoreapp1.1\Record.dll
+C:\Projects\Sandbox\Record\bin\Release\netcoreapp1.1\Record.pdb
+C:\Projects\Sandbox\Record\obj\Release\netcoreapp1.1\Record.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\Record\obj\Release\netcoreapp1.1\Record.AssemblyInfo.cs
+C:\Projects\Sandbox\Record\obj\Release\netcoreapp1.1\Record.dll
+C:\Projects\Sandbox\Record\obj\Release\netcoreapp1.1\Record.pdb

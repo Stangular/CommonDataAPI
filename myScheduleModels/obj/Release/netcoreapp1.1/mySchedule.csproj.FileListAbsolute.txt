@@ -1,0 +1,7 @@
+C:\Projects\Sandbox\mySchedule\bin\Release\netcoreapp1.1\mySchedule.deps.json
+C:\Projects\Sandbox\mySchedule\bin\Release\netcoreapp1.1\mySchedule.dll
+C:\Projects\Sandbox\mySchedule\bin\Release\netcoreapp1.1\mySchedule.pdb
+C:\Projects\Sandbox\mySchedule\obj\Release\netcoreapp1.1\mySchedule.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\mySchedule\obj\Release\netcoreapp1.1\mySchedule.AssemblyInfo.cs
+C:\Projects\Sandbox\mySchedule\obj\Release\netcoreapp1.1\mySchedule.dll
+C:\Projects\Sandbox\mySchedule\obj\Release\netcoreapp1.1\mySchedule.pdb
