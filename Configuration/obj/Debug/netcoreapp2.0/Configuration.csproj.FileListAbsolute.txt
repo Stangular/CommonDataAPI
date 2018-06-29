@@ -1,0 +1,9 @@
+D:\projects\repos\CommonDataAPI\Configuration\obj\Debug\netcoreapp2.0\Configuration.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\Configuration\bin\Debug\netcoreapp2.0\Configuration.deps.json
+D:\projects\repos\CommonDataAPI\Configuration\bin\Debug\netcoreapp2.0\Configuration.dll
+D:\projects\repos\CommonDataAPI\Configuration\bin\Debug\netcoreapp2.0\Configuration.pdb
+D:\projects\repos\CommonDataAPI\Configuration\obj\Debug\netcoreapp2.0\Configuration.dll
+D:\projects\repos\CommonDataAPI\Configuration\obj\Debug\netcoreapp2.0\Configuration.pdb
+D:\projects\repos\CommonDataAPI\Configuration\obj\Debug\netcoreapp2.0\Configuration.csprojResolveAssemblyReference.cache

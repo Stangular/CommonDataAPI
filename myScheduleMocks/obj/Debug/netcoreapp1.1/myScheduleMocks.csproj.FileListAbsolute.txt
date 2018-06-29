@@ -20,3 +20,17 @@ C:\Projects\Sandbox\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.cspr
 C:\Projects\Sandbox\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.AssemblyInfo.cs
 C:\Projects\Sandbox\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.dll
 C:\Projects\Sandbox\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.pdb
+D:\projects\repos\CommonDataAPI\myScheduleMocks\bin\Debug\netcoreapp1.1\myScheduleMocks.deps.json
+D:\projects\repos\CommonDataAPI\myScheduleMocks\bin\Debug\netcoreapp1.1\myScheduleMocks.dll
+D:\projects\repos\CommonDataAPI\myScheduleMocks\bin\Debug\netcoreapp1.1\myScheduleMocks.pdb
+D:\projects\repos\CommonDataAPI\myScheduleMocks\bin\Debug\netcoreapp1.1\myScheduleModels.dll
+D:\projects\repos\CommonDataAPI\myScheduleMocks\bin\Debug\netcoreapp1.1\Record.dll
+D:\projects\repos\CommonDataAPI\myScheduleMocks\bin\Debug\netcoreapp1.1\myScheduleModels.pdb
+D:\projects\repos\CommonDataAPI\myScheduleMocks\bin\Debug\netcoreapp1.1\Record.pdb
+D:\projects\repos\CommonDataAPI\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.csprojResolveAssemblyReference.cache
+D:\projects\repos\CommonDataAPI\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.csproj.CopyComplete
+D:\projects\repos\CommonDataAPI\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.dll
+D:\projects\repos\CommonDataAPI\myScheduleMocks\obj\Debug\netcoreapp1.1\myScheduleMocks.pdb

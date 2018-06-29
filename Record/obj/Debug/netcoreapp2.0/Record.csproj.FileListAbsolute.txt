@@ -1,0 +1,12 @@
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp2.0\Record.deps.json
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp2.0\Record.dll
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp2.0\Record.pdb
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp2.0\Record.csprojResolveAssemblyReference.cache
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp2.0\Record.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp2.0\Record.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp2.0\Record.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp2.0\Record.dll
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp2.0\Record.pdb
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp2.0\DataAccess.dll
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp2.0\DataAccess.pdb
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp2.0\Record.csproj.CopyComplete

@@ -1,0 +1,14 @@
+D:\projects\repos\CommonDataAPI\People\bin\Debug\netcoreapp2.0\People.deps.json
+D:\projects\repos\CommonDataAPI\People\bin\Debug\netcoreapp2.0\People.dll
+D:\projects\repos\CommonDataAPI\People\bin\Debug\netcoreapp2.0\People.pdb
+D:\projects\repos\CommonDataAPI\People\bin\Debug\netcoreapp2.0\DataAccess.dll
+D:\projects\repos\CommonDataAPI\People\bin\Debug\netcoreapp2.0\Record.dll
+D:\projects\repos\CommonDataAPI\People\bin\Debug\netcoreapp2.0\DataAccess.pdb
+D:\projects\repos\CommonDataAPI\People\bin\Debug\netcoreapp2.0\Record.pdb
+D:\projects\repos\CommonDataAPI\People\obj\Debug\netcoreapp2.0\People.csprojResolveAssemblyReference.cache
+D:\projects\repos\CommonDataAPI\People\obj\Debug\netcoreapp2.0\People.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\People\obj\Debug\netcoreapp2.0\People.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\People\obj\Debug\netcoreapp2.0\People.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\People\obj\Debug\netcoreapp2.0\People.csproj.CopyComplete
+D:\projects\repos\CommonDataAPI\People\obj\Debug\netcoreapp2.0\People.dll
+D:\projects\repos\CommonDataAPI\People\obj\Debug\netcoreapp2.0\People.pdb

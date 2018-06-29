@@ -24,3 +24,14 @@ C:\Projects\Sandbox\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMir
 C:\Projects\Sandbox\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.AssemblyInfo.cs
 C:\Projects\Sandbox\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.dll
 C:\Projects\Sandbox\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.pdb
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\bin\Debug\netcoreapp1.1\CommonDataAPIMirror.deps.json
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\bin\Debug\netcoreapp1.1\CommonDataAPIMirror.runtimeconfig.json
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\bin\Debug\netcoreapp1.1\CommonDataAPIMirror.runtimeconfig.dev.json
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\bin\Debug\netcoreapp1.1\CommonDataAPIMirror.dll
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\bin\Debug\netcoreapp1.1\CommonDataAPIMirror.pdb
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.dll
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.pdb
+D:\projects\repos\CommonDataAPI\CommonDataAPIMirror\obj\Debug\netcoreapp1.1\CommonDataAPIMirror.csprojResolveAssemblyReference.cache

@@ -7,3 +7,15 @@ C:\Projects\Sandbox\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.cs
 C:\Projects\Sandbox\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.AssemblyInfo.cs
 C:\Projects\Sandbox\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.dll
 C:\Projects\Sandbox\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.pdb
+D:\projects\repos\CommonDataAPI\myScheduleModels\bin\Debug\netcoreapp1.1\myScheduleModels.deps.json
+D:\projects\repos\CommonDataAPI\myScheduleModels\bin\Debug\netcoreapp1.1\myScheduleModels.dll
+D:\projects\repos\CommonDataAPI\myScheduleModels\bin\Debug\netcoreapp1.1\myScheduleModels.pdb
+D:\projects\repos\CommonDataAPI\myScheduleModels\bin\Debug\netcoreapp1.1\Record.dll
+D:\projects\repos\CommonDataAPI\myScheduleModels\bin\Debug\netcoreapp1.1\Record.pdb
+D:\projects\repos\CommonDataAPI\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.csprojResolveAssemblyReference.cache
+D:\projects\repos\CommonDataAPI\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.csproj.CopyComplete
+D:\projects\repos\CommonDataAPI\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.dll
+D:\projects\repos\CommonDataAPI\myScheduleModels\obj\Debug\netcoreapp1.1\myScheduleModels.pdb

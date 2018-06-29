@@ -12,3 +12,12 @@ C:\Projects\Sandbox\Record\obj\Debug\netcoreapp1.1\Record.AssemblyInfo.cs
 C:\Projects\Sandbox\Record\obj\Debug\netcoreapp1.1\Record.dll
 C:\Projects\Sandbox\Record\obj\Debug\netcoreapp1.1\Record.pdb
 C:\Projects\Sandbox\Record\obj\Debug\netcoreapp1.1\Record.csprojResolveAssemblyReference.cache
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp1.1\Record.deps.json
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp1.1\Record.dll
+D:\projects\repos\CommonDataAPI\Record\bin\Debug\netcoreapp1.1\Record.pdb
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp1.1\Record.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp1.1\Record.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp1.1\Record.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp1.1\Record.dll
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp1.1\Record.pdb
+D:\projects\repos\CommonDataAPI\Record\obj\Debug\netcoreapp1.1\Record.csprojResolveAssemblyReference.cache

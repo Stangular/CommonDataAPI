@@ -1,0 +1,16 @@
+D:\projects\repos\CommonDataAPI\Services\obj\Debug\netcoreapp2.0\Services.csprojResolveAssemblyReference.cache
+D:\projects\repos\CommonDataAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\Services.dll
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\Services.pdb
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\DataAccess.dll
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\People.dll
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\Record.dll
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\DataAccess.pdb
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\People.pdb
+D:\projects\repos\CommonDataAPI\Services\bin\Debug\netcoreapp2.0\Record.pdb
+D:\projects\repos\CommonDataAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+D:\projects\repos\CommonDataAPI\Services\obj\Debug\netcoreapp2.0\Services.dll
+D:\projects\repos\CommonDataAPI\Services\obj\Debug\netcoreapp2.0\Services.pdb

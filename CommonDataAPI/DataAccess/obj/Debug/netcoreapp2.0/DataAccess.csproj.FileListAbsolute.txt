@@ -1,0 +1,9 @@
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+D:\projects\repos\CommonDataAPI\CommonDataAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csprojResolveAssemblyReference.cache

@@ -6,10 +6,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
-using myScheduleModels.Models.Interfaces;
-
-using Microsoft.EntityFrameworkCore;
 using DataRecord;
+using DataAccess;
+using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Cors;
+//using DataRecord;
 
 namespace CommonDataAPIMirror.Controllers
 {
@@ -17,22 +19,25 @@ namespace CommonDataAPIMirror.Controllers
     [Route("api/data")]
     public class DataController : Controller
     {
-        IScheduleRepository _eventRepo;
-
+        // IScheduleRepository _eventRepo;
+  //      ISource _source;
+        IConfigurationRoot _config;
+        ISource _masterForm;
         //  private readonly myScheduleContext _context;
 
-        public DataController(IScheduleRepository eventRepo)
+        public DataController(ISource form )
         {
-            _eventRepo = eventRepo;
-
-            //       _context = context;
+            _masterForm = form;
+            //_repo = repo;
+            //_repo.Initialize();
+            //_source = source;
         }
 
         private JwtSecurityToken getAuthToken(Microsoft.AspNetCore.Http.IHeaderDictionary header)
         {
             var jwt = new JwtSecurityTokenHandler();
             string auth = header["Authorization"];
-            if( auth == null)
+            if (auth == null)
             {
                 return null;
             }
@@ -63,40 +68,44 @@ namespace CommonDataAPIMirror.Controllers
 
         // GET: api/ScheduledEvents
         [HttpGet]
-      //  [EnableCors("MyPolicy")]
+        [EnableCors("MyPolicy")]
         //     [Authorize(Policy = "RegisteredDataUser")]
         public IActionResult Get()
         {
-            try
-            {
-                // Return _recordRepo.InitialResponse(getUserID(Request.Headers));
-                return Ok(_eventRepo.UserSchedule(getUserID(Request.Headers)));
-            }
-            catch (System.Exception ex)
-            {
-                //  return Json(ex.Message);
+            return Ok(_masterForm.Get("lists",0,0));
 
-            }
 
-            return BadRequest("User Schedule not available");
+            //   return BadRequest("No data results available");
 
         }
 
         // GET: api/ScheduledEvents/5
-        [HttpGet("{id}")]
-       // [EnableCors("MyPolicy")]
-       // [Authorize(Policy = "RegisteredDataUser")]
-        public JsonResult Get([FromRoute] int id) // 
+        [HttpGet("{formName}")]
+        [EnableCors("MyPolicy")]
+        // [Authorize(Policy = "RegisteredDataUser")]
+        public IActionResult Get(string formName) // 
         {
             // formName,List<string>lookupdata
             // Return _recordRepo.Response();
-            return Json("");
+            return Ok(_masterForm.Get(formName, 0, 0));
+
+        }
+
+        // GET: api/ScheduledEvents/5
+        [HttpGet("GetForm")]
+        [EnableCors("MyPolicy")]
+        // [Authorize(Policy = "RegisteredDataUser")]
+        public IActionResult GetForm([FromRoute] PagingFormModel formPage) // 
+        {
+            // formName,List<string>lookupdata
+            // Return _recordRepo.Response();
+            return Ok(_masterForm.Get(formPage.FormName,formPage.PageNumber,formPage.PageLength));
         }
 
         // PUT: api/ScheduledEvents/5
         [HttpPut("{id}")]
-      //  [EnableCors("MyPolicy")]
-      //  [Authorize(Policy = "RegisteredDataUser")]
+        [EnableCors("MyPolicy")]
+        //  [Authorize(Policy = "RegisteredDataUser")]
         public IActionResult PutScheduledEvent([FromRoute] int id)
         {
             return BadRequest("Nothing to see here");
@@ -104,24 +113,24 @@ namespace CommonDataAPIMirror.Controllers
 
         // POST: api/data
         [HttpPost]
-     //   [EnableCors("MyPolicy")]
+        [EnableCors("MyPolicy")]
         //       [Authorize(Policy = "RegisteredDataUser")]
-        public IActionResult Post([FromBody] Form form)
+        public IActionResult Post([FromBody] string form)
         {
-            try
-            {
-                if (_eventRepo.AddFromForm(form, getUserID(Request.Headers)))
-                {
-                    return Ok();
-                }
-                else
-                {
-                }
-            }
-            catch (System.Exception ex)
-            {
-                LogException("Exception thrown while adding data");
-            }
+            //try
+            //{
+            //    if (_eventRepo.AddFromForm(form, getUserID(Request.Headers)))
+            //    {
+            //        return Ok();
+            //    }
+            //    else
+            //    {
+            //    }
+            //}
+            //catch (System.Exception ex)
+            //{
+            //    LogException("Exception thrown while adding data");
+            //}
 
             return BadRequest("Data was not saved");
         }
@@ -135,8 +144,8 @@ namespace CommonDataAPIMirror.Controllers
         }
         // DELETE: api/ScheduledEvents/5
         [HttpDelete("{id}")]
-     //   [EnableCors("MyPolicy")]
-     //   [Authorize(Policy = "RegisteredDataUser")]
+        [EnableCors("MyPolicy")]
+        //   [Authorize(Policy = "RegisteredDataUser")]
         public JsonResult DeleteScheduledEvent([FromRoute] int id)
         {
             //if (!ModelState.IsValid)

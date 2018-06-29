@@ -7,7 +7,6 @@ namespace myScheduleModels.Models
 {
     public class ListRepo : IListRepository
     {
-
         Form listForm = new Form("lists");
         private readonly myScheduleContext _appDbContext;
 

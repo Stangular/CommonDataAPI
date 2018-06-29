@@ -9,9 +9,8 @@ using Microsoft.Extensions.DependencyInjection;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.Extensions.Logging;
-using Microsoft.EntityFrameworkCore;
-using myScheduleModels.Models;
-using myScheduleModels.Models.Interfaces;
+using DataAccess;
+using Services;
 
 namespace CommonDataAPIMirror
 {
@@ -40,10 +39,23 @@ namespace CommonDataAPIMirror
             });
 
             services.AddMvc();
-            services.AddTransient<IScheduleRepository, myScheduleRepo>();
+            services.AddMemoryCache();
+            var connection = _config.GetConnectionString("TestConnection");
+            services.AddTransient<ISource, MasterForm>();
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+           {
+               builder.AllowAnyOrigin()
+                      .AllowAnyMethod()
+                      .AllowAnyHeader();
+           }));
 
-            var connection = _config.GetConnectionString("DefaultConnection");// @"Server=OFFICE_STAN\SQLEXPRESS;Database=mySchedule;Integrated Security=True;MultipleActiveResultSets=true";
-            services.AddDbContext<myScheduleContext>(options => options.UseSqlServer(connection));
+            // services.AddTransient<ISource, Source>(s => new Source(connection));
+            //   services.AddTransient<IRedisRepo, RedisRepository>();
+            //   services.AddSingleton<>
+            //  services.AddTransient<IScheduleRepository, myScheduleRepo>();
+
+            //      var connection = _config.GetConnectionString("DefaultConnection");// @"Server=OFFICE_STAN\SQLEXPRESS;Database=mySchedule;Integrated Security=True;MultipleActiveResultSets=true";
+            //   services.AddDbContext<myScheduleContext>(options => options.UseSqlServer(connection));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
